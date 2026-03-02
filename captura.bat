@@ -2,7 +2,7 @@
 setlocal enableextensions
 
 :: ===== TEXTO DA MARCA D'ÁGUA =====
-set "MARCA=G4F/ApexBrasil | Terceirizado: Leonel Esteves Jeronimo - CPF: 024.788.331-07 "
+set "MARCA=G4F/ApexBrasil | Terceirizado: Seu nome completo aqui - CPF: XXX.XXX.XXX-XX "
 
 :: Pasta base
 set "BASE=%USERPROFILE%\Capturas"
@@ -41,4 +41,5 @@ $bmp.Dispose(); ^
 >nul 2>&1
 
 endlocal
+
 exit
